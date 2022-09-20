@@ -1,0 +1,15 @@
+D:\Projects\BowlingGame\bowlingGame\bowlingGame\bin\Debug\net6.0\bowlingGame.exe
+D:\Projects\BowlingGame\bowlingGame\bowlingGame\bin\Debug\net6.0\bowlingGame.deps.json
+D:\Projects\BowlingGame\bowlingGame\bowlingGame\bin\Debug\net6.0\bowlingGame.runtimeconfig.json
+D:\Projects\BowlingGame\bowlingGame\bowlingGame\bin\Debug\net6.0\bowlingGame.dll
+D:\Projects\BowlingGame\bowlingGame\bowlingGame\bin\Debug\net6.0\bowlingGame.pdb
+D:\Projects\BowlingGame\bowlingGame\bowlingGame\obj\Debug\net6.0\bowlingGame.csproj.AssemblyReference.cache
+D:\Projects\BowlingGame\bowlingGame\bowlingGame\obj\Debug\net6.0\bowlingGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\BowlingGame\bowlingGame\bowlingGame\obj\Debug\net6.0\bowlingGame.AssemblyInfoInputs.cache
+D:\Projects\BowlingGame\bowlingGame\bowlingGame\obj\Debug\net6.0\bowlingGame.AssemblyInfo.cs
+D:\Projects\BowlingGame\bowlingGame\bowlingGame\obj\Debug\net6.0\bowlingGame.csproj.CoreCompileInputs.cache
+D:\Projects\BowlingGame\bowlingGame\bowlingGame\obj\Debug\net6.0\bowlingGame.dll
+D:\Projects\BowlingGame\bowlingGame\bowlingGame\obj\Debug\net6.0\refint\bowlingGame.dll
+D:\Projects\BowlingGame\bowlingGame\bowlingGame\obj\Debug\net6.0\bowlingGame.pdb
+D:\Projects\BowlingGame\bowlingGame\bowlingGame\obj\Debug\net6.0\bowlingGame.genruntimeconfig.cache
+D:\Projects\BowlingGame\bowlingGame\bowlingGame\obj\Debug\net6.0\ref\bowlingGame.dll
